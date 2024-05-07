@@ -1,7 +1,6 @@
 # Git-lesson-101
-Introductory class about Git and GitHub
 
-###  Training to introduce the cohort on how to push from their local environment to github
+### Introductory class about Git and GitHub.Training to introduce the cohort on how to push from their local environment to github
 Downloaded Gitbash (https://git-scm.com/downloads)
 ## configure  gitbash
 - git config --global user.name "name"  
